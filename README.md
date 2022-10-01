@@ -1,2 +1,2 @@
-# ChekeevKubanbek.github.io
+# Чекеев Кубанбек
 Мой первый сайт
